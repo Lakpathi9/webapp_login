@@ -1,0 +1,7 @@
+mongodb+srv://lakpathi:4qb4ewGsBDHUEAQS@cluster0.fin09mr.mongodb.net/web_auth
+4qb4ewGsBDHUEAQS
+
+
+===================
+19HATf4IAF2sVbO7
+mongodb+srv://web_auth:19HATf4IAF2sVbO7@cluster0.2z38ej5.mongodb.net/?retryWrites=true&w=majority
